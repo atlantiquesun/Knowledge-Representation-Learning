@@ -1,1 +1,1 @@
-# gaussian_krl
+# Knowledge Representation Learning using Multivariate Gaussians
